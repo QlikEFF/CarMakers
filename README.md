@@ -1,2 +1,2 @@
 # CarMakers
-# aot just storing carmakers logos
+# carmakers logos
